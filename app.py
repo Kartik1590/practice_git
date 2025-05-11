@@ -5,3 +5,6 @@ def hello1():
 
 def hello2():
     print('hellow 2')
+
+def hellow3():
+    print('hellow3')
